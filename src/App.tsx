@@ -11,5 +11,5 @@ export const App = () => (
 )
 
 const HomeComponent = () => (
-  <h1> Hello World </h1>
+  <h1> Hello Bob </h1>
 )

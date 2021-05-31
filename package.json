@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack --mode development --config webpack.config.ts",
     "start": "webpack serve --config webpack.config.ts --open 'Firefox' --mode development",
+    "start2": "webpack serve --config webpack.config.ts --mode development",
     "build": "webpack --mode production",
     "wpw": "webpack --watch",
     "gen-package": "python strip_comments.py",
